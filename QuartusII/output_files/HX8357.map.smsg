@@ -1,0 +1,4 @@
+Info (10281): Verilog HDL Declaration information at HX8357_FSM_new.sv(25): object "init" differs only in case from object "INIT" in the same scope
+Info (10281): Verilog HDL Declaration information at HX8357_FSM_new.sv(119): object "next_state" differs only in case from object "NEXT_STATE" in the same scope
+Info (10281): Verilog HDL Declaration information at HX8357_cont_tb.sv(16): object "Data" differs only in case from object "data" in the same scope
+Info (10281): Verilog HDL Declaration information at HX8357_cont.sv(24): object "next_state" differs only in case from object "NEXT_STATE" in the same scope
